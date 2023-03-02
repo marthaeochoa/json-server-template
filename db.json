@@ -1,0 +1,130 @@
+{
+  "Songs": [
+    {
+      "id": 1,
+      "title": "Kill Bill",
+      "artist": "SZA",
+      "genre": "RnB"
+    },
+    {
+      "id": 2,
+      "title": "Bichiyal",
+      "artist": "Bad Bunny",
+      "genre": "Reggaeton"
+    },
+    {
+      "id": 3,
+      "title": "BIZCOCHITO",
+      "artist": "Rosalìa",
+      "genre": "Pop"
+    },
+    {
+      "id": 4,
+      "title": "Misery Business",
+      "artist": "Paramore",
+      "genre": "Alternative"
+    },
+    {
+      "id": 5,
+      "title": "Can I Kick It?",
+      "artist": "A Tribe Called Quest",
+      "genre": "Rap"
+    },
+    {
+      "id": 6,
+      "title": "Be Sweet",
+      "artist": "Japenese Breakfast",
+      "genre": "Alternative"
+    },
+    {
+      "id": 7,
+      "title": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "artist": "Bizarrap",
+      "genre": "Reggaeton"
+    },
+    {
+      "id": 8,
+      "title": "OHFR?",
+      "artist": "Rico Nasty",
+      "genre": "RnB"
+    },
+    {
+      "id": 9,
+      "title": "Cold Heart - PNAU Remix",
+      "artist": "Elton John, Dua Lipa, PNAU",
+      "genre": "Pop"
+    },
+    {
+      "id": 10,
+      "title": "Breezeblocks",
+      "artist": "Alt-J",
+      "genre": "Alternative"
+    },
+    {
+      "id": 11,
+      "title": "Take My Breath",
+      "artist": "The Weeknd",
+      "genre": "RnB"
+    },
+    {
+      "id": 12,
+      "title": "PROVENZA",
+      "artist": "Karol G",
+      "genre": "Reggaeton"
+    },
+    {
+      "id": 13,
+      "title": "Narcissist",
+      "artist": "No Rome, The 1975",
+      "genre": "Alternative"
+    },
+    {
+      "id": 14,
+      "title": "The Man",
+      "artist": "Taylor Swift",
+      "genre": "Pop"
+    },
+    {
+      "id": 15,
+      "title": "El Apagon",
+      "artist": "Bad Bunny",
+      "genre": "Reggaeton"
+    },
+    {
+      "title": "favorite crime",
+      "artist": "Olivia Rodrigo",
+      "genre": "Pop",
+      "id": 16
+    },
+    {
+      "title": "Nobody Gets Me",
+      "artist": "SZA",
+      "genre": "RnB",
+      "id": 17
+    },
+    {
+      "title": "Ms.Jackson",
+      "artist": "Outkast",
+      "genre": "Rap",
+      "id": 18
+    },
+    {
+      "title": "Push It",
+      "artist": "Salt-N-Pepa",
+      "genre": "Rap",
+      "id": 19
+    },
+    {
+      "title": "Mockingbird",
+      "artist": "Eminem",
+      "genre": "Rap",
+      "id": 20
+    },
+    {
+      "title": "Cold, Cold, Cold",
+      "artist": "Cage The Elephant",
+      "genre": "Alternative",
+      "id": 21
+    }
+  ]
+}
