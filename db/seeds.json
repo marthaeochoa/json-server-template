@@ -1,52 +1,130 @@
 {
-  "toys": [
+  "Songs": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "title": "Kill Bill",
+      "artist": "SZA",
+      "genre": "RnB"
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "title": "Bichiyal",
+      "artist": "Bad Bunny",
+      "genre": "Reggaeton"
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "title": "BIZCOCHITO",
+      "artist": "Rosalìa",
+      "genre": "Pop"
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "title": "Misery Business",
+      "artist": "Paramore",
+      "genre": "Alternative"
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "title": "Can I Kick It?",
+      "artist": "A Tribe Called Quest",
+      "genre": "Rap"
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "title": "Be Sweet",
+      "artist": "Japenese Breakfast",
+      "genre": "Alternative"
     },
     {
       "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "title": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "artist": "Bizarrap",
+      "genre": "Reggaeton"
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "title": "OHFR?",
+      "artist": "Rico Nasty",
+      "genre": "RnB"
+    },
+    {
+      "id": 9,
+      "title": "Cold Heart - PNAU Remix",
+      "artist": "Elton John, Dua Lipa, PNAU",
+      "genre": "Pop"
+    },
+    {
+      "id": 10,
+      "title": "Breezeblocks",
+      "artist": "Alt-J",
+      "genre": "Alternative"
+    },
+    {
+      "id": 11,
+      "title": "Take My Breath",
+      "artist": "The Weeknd",
+      "genre": "RnB"
+    },
+    {
+      "id": 12,
+      "title": "PROVENZA",
+      "artist": "Karol G",
+      "genre": "Reggaeton"
+    },
+    {
+      "id": 13,
+      "title": "Narcissist",
+      "artist": "No Rome, The 1975",
+      "genre": "Alternative"
+    },
+    {
+      "id": 14,
+      "title": "The Man",
+      "artist": "Taylor Swift",
+      "genre": "Pop"
+    },
+    {
+      "id": 15,
+      "title": "El Apagon",
+      "artist": "Bad Bunny",
+      "genre": "Reggaeton"
+    },
+    {
+      "title": "favorite crime",
+      "artist": "Olivia Rodrigo",
+      "genre": "Pop",
+      "id": 16
+    },
+    {
+      "title": "Nobody Gets Me",
+      "artist": "SZA",
+      "genre": "RnB",
+      "id": 17
+    },
+    {
+      "title": "Ms.Jackson",
+      "artist": "Outkast",
+      "genre": "Rap",
+      "id": 18
+    },
+    {
+      "title": "Push It",
+      "artist": "Salt-N-Pepa",
+      "genre": "Rap",
+      "id": 19
+    },
+    {
+      "title": "Mockingbird",
+      "artist": "Eminem",
+      "genre": "Rap",
+      "id": 20
+    },
+    {
+      "title": "Cold, Cold, Cold",
+      "artist": "Cage The Elephant",
+      "genre": "Alternative",
+      "id": 21
     }
   ]
 }
